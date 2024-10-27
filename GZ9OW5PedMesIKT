@@ -1,0 +1,4 @@
+git remote add origin
+https://github.com/CzLivia2024/GZ9OW5PedMesIKT.git
+git branch -M master
+git push -u origin master
